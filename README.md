@@ -15,7 +15,7 @@
 - [Phần E](E.md)
 - [Phần F](F.md)
 - [Phần G](G.md)
-
+- [phần câu hỏi bài làm](cauhoibailam.md)
 ---
 
-# Câu hỏi bài làm
+
